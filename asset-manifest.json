@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/doka-case-study/static/css/main.c2c71eac.chunk.css",
-    "main.js": "/doka-case-study/static/js/main.346dfbde.chunk.js",
-    "main.js.map": "/doka-case-study/static/js/main.346dfbde.chunk.js.map",
+    "main.js": "/doka-case-study/static/js/main.da6ec809.chunk.js",
+    "main.js.map": "/doka-case-study/static/js/main.da6ec809.chunk.js.map",
     "runtime-main.js": "/doka-case-study/static/js/runtime-main.ccd1b642.js",
     "runtime-main.js.map": "/doka-case-study/static/js/runtime-main.ccd1b642.js.map",
     "static/js/2.6899d6ac.chunk.js": "/doka-case-study/static/js/2.6899d6ac.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.ccd1b642.js",
     "static/js/2.6899d6ac.chunk.js",
     "static/css/main.c2c71eac.chunk.css",
-    "static/js/main.346dfbde.chunk.js"
+    "static/js/main.da6ec809.chunk.js"
   ]
 }
