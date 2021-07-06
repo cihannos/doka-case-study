@@ -22,8 +22,8 @@ API Call and display 20 data
 Omdb API returns us 10 movies in each API call.
 I create a 2-time API request to display 20 movies on the page.
 And when calculating a url page parameter, a request is made with 1 more.
-For example, you searched for "the war of" in this application and there is a total of 175 pages of data.
-In fact, this data is actually 350 pages of data.
+For example, you searched for "the war of" in this application and there is a total of 65 pages of data.
+In fact, this data is actually 130 pages of data.
 But the app throws 2 page requests for each page.
 For example, you are on page five and have gone to page six, the system automatically gets the data of pages 6 and 7.
 
