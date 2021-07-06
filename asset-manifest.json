@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/doka-case-study/static/css/main.c2c71eac.chunk.css",
+    "main.css": "/doka-case-study/static/css/main.1e15e994.chunk.css",
     "main.js": "/doka-case-study/static/js/main.67171bb8.chunk.js",
     "main.js.map": "/doka-case-study/static/js/main.67171bb8.chunk.js.map",
     "runtime-main.js": "/doka-case-study/static/js/runtime-main.ccd1b642.js",
@@ -8,14 +8,14 @@
     "static/js/2.6899d6ac.chunk.js": "/doka-case-study/static/js/2.6899d6ac.chunk.js",
     "static/js/2.6899d6ac.chunk.js.map": "/doka-case-study/static/js/2.6899d6ac.chunk.js.map",
     "index.html": "/doka-case-study/index.html",
-    "static/css/main.c2c71eac.chunk.css.map": "/doka-case-study/static/css/main.c2c71eac.chunk.css.map",
+    "static/css/main.1e15e994.chunk.css.map": "/doka-case-study/static/css/main.1e15e994.chunk.css.map",
     "static/js/2.6899d6ac.chunk.js.LICENSE.txt": "/doka-case-study/static/js/2.6899d6ac.chunk.js.LICENSE.txt",
     "static/media/custom.css": "/doka-case-study/static/media/sc.adcbfbb8.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.ccd1b642.js",
     "static/js/2.6899d6ac.chunk.js",
-    "static/css/main.c2c71eac.chunk.css",
+    "static/css/main.1e15e994.chunk.css",
     "static/js/main.67171bb8.chunk.js"
   ]
 }
