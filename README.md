@@ -37,3 +37,10 @@ Another feature is the cache structure.
 When you look at a movie, the cache structure first checks the local memory with the imdb id of that movie.
 If it does not exist, it makes an API call for the movie and saves the movie data as a javascript object in the local memory with its imdb id.
 If there is, it gets the movie data from local data instead of requesting it and prints it to the screen.
+
+Who wants edit
+------
+Just download editable zip file and install some npm packages like axios and edit whatever you like :)
+
+
+Credits: Cihan Alp İNCİR
