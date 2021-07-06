@@ -2,6 +2,10 @@
 
 This application for Doka Bilişim Case Study.
 
+DEMO
+------
+https://cihannos.github.io/doka-case-study/
+
 Project Details
 ------
 This case study made with React.
