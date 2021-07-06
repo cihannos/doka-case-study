@@ -10,7 +10,7 @@ Project Details
 -----
 This app made with React.
 It took 6 hours to build.
-It took 14 hours to fix the React BrowserRoute issue on Github pages.
+And it took 14 hours to fix the React BrowserRoute issue on Github pages.
 
 
 Usage
